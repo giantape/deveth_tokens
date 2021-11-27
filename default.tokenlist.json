@@ -1,0 +1,33 @@
+{
+    "name": "DevEthereum List",
+    "timestamp": "2020-06-15T12:00:00+00:00",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/giantape/devethswap-uniswap/master/src/assets/images/deveth_logo.png",
+    "keywords": [
+      "devEthereum",
+      "default",
+      "list"
+    ],
+    "tokens": [
+      {
+        "address": "0xe5092b565b5119fa0860b0016d9E4cCe9cAB210E",
+        "chainId": 787,
+        "name": "Wrapped DTH",
+        "symbol": "WdTH",
+        "decimals": 18,
+        "logoURI": "https://www.devethswap.de/WdTH.png"
+      },
+      {
+        "name": "IDA MURNI",
+        "address": "0xCEc9E27a031632d8D29E6d2F91427Ca0F9370C28",
+        "symbol": "IDA",
+        "decimals": 18,
+        "chainId": 787,
+        "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
+      }
+    ]
+  }
