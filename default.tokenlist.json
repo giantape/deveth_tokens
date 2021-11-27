@@ -28,6 +28,14 @@
         "decimals": 18,
         "chainId": 787,
         "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
+      },
+      {
+        "name": "Dev Inu",
+        "address": "0x07Da78967cE3FD0181026a2819c28F0395E1e5Ec",
+        "symbol": "DINU",
+        "decimals": 18,
+        "chainId": 787,
+        "logoURI": "https://raw.githubusercontent.com/dthtoken/dinu/main/img/dinusmall.png"
       }
     ]
   }
