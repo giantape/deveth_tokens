@@ -5,7 +5,7 @@
   <img src="https://www.devethswap.de/WdTH.png" width="200"/>
 </p>
 
-visit https://www.devethswap.de<a href="https://www.devethswap.de">devethswap</a>
+visit our DEX <a href="https://www.devethswap.de">devethswap</a>
 <p>feel free create a pull request!</p>
 
 ```javascript
