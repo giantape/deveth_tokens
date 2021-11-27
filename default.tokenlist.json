@@ -1,8 +1,8 @@
 {
     "name": "DevEthereum List",
-    "timestamp": "2020-06-15T12:00:00+00:00",
+    "timestamp": "2021-11-29T12:00:00+00:00",
     "version": {
-      "major": 4,
+      "major": 5,
       "minor": 0,
       "patch": 0
     },
@@ -16,13 +16,13 @@
       {
         "address": "0xe5092b565b5119fa0860b0016d9E4cCe9cAB210E",
         "chainId": 787,
-        "name": "Wrapped DTH",
+        "name": "Wrapped dTH",
         "symbol": "WdTH",
         "decimals": 18,
         "logoURI": "https://www.devethswap.de/WdTH.png"
       },
       {
-        "name": "IDA MURNI",
+        "name": "IdaMurni",
         "address": "0xCEc9E27a031632d8D29E6d2F91427Ca0F9370C28",
         "symbol": "IDA",
         "decimals": 18,
